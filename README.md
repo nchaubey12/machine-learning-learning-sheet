@@ -11,6 +11,8 @@ It contains:
 
 ## 📂 Repository Structure
 
+```
+
 machine-learning-learning-sheet/
 │
 ├── learning-weeks/
@@ -18,18 +20,21 @@ machine-learning-learning-sheet/
 │   ├── week-02-linear-algebra/
 │   └── ...
 │
-└── projects-and-assignments/
-    ├── assignments/
+├── assignments/
+│   ├── house_pricing.ipynb
+│
+└── projects/
     └── projects/
 
----
+```
+
 
 ## 📚 Weekly Learning Progress
 
 | Week | Topic | Status |
 |------|-------|--------|
 | Week 01 | Python & NumPy | ✅ |
-| Week 02 | Linear Algebra | ⬜ |
+| Week 02 | Linear Algebra | ✅ |
 | Week 03 | Gradient Descent | ⬜ |
 | Week 04 | Linear Regression | ⬜ |
 | Week 05 | Logistic Regression | ⬜ |
