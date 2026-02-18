@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Learning Sheet
+# 🚀 Machine Learning:- Learning Sheet
 
 This repository documents my structured journey into Machine Learning.
 
